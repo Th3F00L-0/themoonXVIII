@@ -2,7 +2,7 @@ import base64
 import os
 
 CONFIG_DIR = "configs"
-OUTPUT = "sub.txt"
+OUTPUT = "themoon18.txt"
 
 links = []
 
